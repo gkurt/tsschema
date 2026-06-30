@@ -5,11 +5,11 @@
   "description": "Validate JSON with a Typespcript type inside the workspace",
   "version": "1.4.0",
   "publisher": "KurtGokhan",
-  "homepage": "https://github.com/KurtGokhan/tsschema",
-  "bugs": "https://github.com/KurtGokhan/tsschema/issues",
+  "homepage": "https://github.com/gkurt/tsschema",
+  "bugs": "https://github.com/gkurt/tsschema/issues",
   "repository": {
     "type": "git",
-    "url": "https://github.com/KurtGokhan/tsschema.git"
+    "url": "https://github.com/gkurt/tsschema.git"
   },
   "keywords": [
     "json",
